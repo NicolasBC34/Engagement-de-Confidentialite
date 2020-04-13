@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Engagement de Confidentialité
 
-You can use the [editor on GitHub](https://github.com/NicolasBC34/Engagement-de-Confidentialite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Le présent engagement de confidentialité s’applique à la façon dont nous collectons, utilisons, divulguons, transférons et conservons vos données. Veuillez prendre le temps de vous familiariser avec nos pratiques en matière de protection des données à caractère personnel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Collecte et utilisation des données à caractère personnel
 
-### Markdown
+L'application Bingo Casino Rally ne connecte aucune donnée sensible concernant l'utilisateur. En effet pas de compte necessaire pour jouer à ce jeu donc pas de collecte d'email, numero de téléphone ou informations sur l'identité du joueur. 
+L'application Bigno Casino Rally collecte simplement les cookies de navigation à travers Google ADSense, afin de vous proposer des publicité adaptées à votre interêt.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Comment supprimer ses cookies
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NicolasBC34/Engagement-de-Confidentialite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Afin de supprimer les cookies de navigation rendez-vous dans les paramètres de votre navigateur pas defaut. Recherchez dans les paramètres la rubrique faisant référence à la confidentialité et la sécurité. Vous devriez trouver dans cette rubrique une section vous permettant de gérer vos cookies. Pour des informations plus détaillées rendez vous dans l'aide de votre navigateur par defaut.
